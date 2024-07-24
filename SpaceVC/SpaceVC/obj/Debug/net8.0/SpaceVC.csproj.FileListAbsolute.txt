@@ -1,0 +1,14 @@
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\bin\Debug\net8.0\SpaceVC.exe
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\bin\Debug\net8.0\SpaceVC.deps.json
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\bin\Debug\net8.0\SpaceVC.runtimeconfig.json
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\bin\Debug\net8.0\SpaceVC.dll
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\bin\Debug\net8.0\SpaceVC.pdb
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.AssemblyInfoInputs.cache
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.AssemblyInfo.cs
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.csproj.CoreCompileInputs.cache
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.dll
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\refint\SpaceVC.dll
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.pdb
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\SpaceVC.genruntimeconfig.cache
+C:\Users\duerh\OneDrive\GitHub Projects\bookstore-frontend-razzle-and-dazzle\SpaceVC\SpaceVC\obj\Debug\net8.0\ref\SpaceVC.dll
